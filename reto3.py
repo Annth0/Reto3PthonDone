@@ -14,6 +14,8 @@ def consultaRegistro(ventas, idProducto):
     else:
         print("No hay registro de venta de ese producto")
     
+# las partes que se pone  aqui son solamente para probar si el código funciona correctamente.  de aqui en delante esto ll pone el bot, nosotros no lo ponemos
+
 
 # consultaRegistro(AutoPartes([ 
 #     (2001,'rosca', 'PT29872',2,45,'Luis Molero',3456,'12/06/2020'), 
